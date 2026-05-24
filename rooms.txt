@@ -1,0 +1,9 @@
+SA 0 1
+SA 0 2
+SA 0 3
+SA 0 4
+SA 0 5
+SB 0 1
+SB 0 2
+SB 0 3
+SPC 0 12
